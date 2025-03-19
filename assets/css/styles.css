@@ -6,7 +6,6 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  /* Change favorite color */
   --hue-color: 190; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
   /* HSL color mode */
@@ -535,7 +534,18 @@ img {
 .skills__python {
   width: 80%;
 }
-
+.skills__git{
+  width: 60%;
+}
+.skills__github{
+  width: 65%;
+}
+.skills__vs{
+  width: 80%;
+}
+.skills__bootstrap{
+  width: 80%;
+}
 
 .skills__lifeskills {
   width: 95%;
